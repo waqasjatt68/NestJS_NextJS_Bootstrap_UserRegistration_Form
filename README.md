@@ -1,5 +1,12 @@
 # 🚀 NestJS + NextJS + Bootstrap User Registration System (MongoDB + JWT)
 
+<img width="1920" height="878" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/bc952320-7d61-4201-9443-c44fcfd9ce19" />
+
+##
+
+<img width="1920" height="873" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/3f8ee93e-7da0-4440-b154-185f1a7000ec" />
+
+##
 A complete **Full Stack Authentication System** built with **NestJS (Backend)** and **NextJS (Frontend)** using **MongoDB**, **Mongoose**, **JWT Authentication**, and **Bootstrap UI**.
 
 This project demonstrates how to build a secure user registration and login system using modern full-stack technologies.
